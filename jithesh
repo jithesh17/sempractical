@@ -1,4 +1,4 @@
-public class odd { 
+public class jithesh { 
     public static void main(String[] args) {
         System.out.println("Odd numbers from 1 to 100:");
         
